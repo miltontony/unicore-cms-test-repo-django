@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "", 
+        "title": "guides", 
+        "slug": "guides", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "62a233a8adfc469ea8cc1f4b73ecca07"
+    }, 
+    "model": "GitCategoryModel"
+}
