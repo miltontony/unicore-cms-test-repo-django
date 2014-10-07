@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "Diarrhoea", 
+        "slug": "diarrhoea", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "104e7a1470ce44eaaf461faae4424168"
+    }, 
+    "model": "GitCategoryModel"
+}
