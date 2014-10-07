@@ -8,10 +8,14 @@
         "created_at": null, 
         "featured_in_category": false, 
         "modified_at": null, 
-        "linked_pages": [], 
+        "linked_pages": [
+            "ed688a74363e43d98f327ef16deaf6c7", 
+            "d5051b8fe1454c549efc6bbef2e5188b", 
+            "f45fff7fa750420dbc8b6f5d50ab74e7"
+        ], 
         "slug": "test-page-0", 
         "content": "this is sample content for pg 0", 
-        "source": null, 
+        "source": "6fbf654e76864fb392859e76c26139d3", 
         "featured": false, 
         "published": true, 
         "id": "fa3f6fa12d9d4272b149f4b401b46a95"
