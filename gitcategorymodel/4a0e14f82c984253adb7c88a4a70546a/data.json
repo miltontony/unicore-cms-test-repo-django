@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "subtitle", 
+        "language": "afr-ZA", 
+        "title": "sample title", 
+        "slug": "sample-title", 
+        "source": null, 
+        "featured_in_navbar": true, 
+        "id": "4a0e14f82c984253adb7c88a4a70546a"
+    }, 
+    "model": "GitCategoryModel"
+}
