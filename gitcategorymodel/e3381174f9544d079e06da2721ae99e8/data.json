@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "", 
+        "title": "new title", 
+        "slug": "slug", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "e3381174f9544d079e06da2721ae99e8"
+    }, 
+    "model": "GitCategoryModel"
+}
