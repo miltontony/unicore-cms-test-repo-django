@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "subtitle", 
+        "description": "description", 
+        "language": "", 
+        "title": "sample title", 
+        "primary_category": "2f96f81c30f248c18f14d1675db77697", 
+        "created_at": "2014-10-07T12:32:59.144542+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-07T12:32:59.145294+00:00", 
+        "linked_pages": [], 
+        "slug": "sample-title", 
+        "content": "sample content", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "9d5786e9ae5846f89eeb29a76e0efb17"
+    }, 
+    "model": "GitPageModel"
+}
