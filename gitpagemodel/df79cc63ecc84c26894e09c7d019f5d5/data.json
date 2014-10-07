@@ -8,7 +8,11 @@
         "created_at": null, 
         "featured_in_category": false, 
         "modified_at": null, 
-        "linked_pages": [], 
+        "linked_pages": [
+            "ef2cd427cfa443a3a6124f3058c7a123", 
+            "bc4970f08a894c3cb4fd025f312283bf", 
+            "9fa0c81fd9f9491c8aa68a7fdfa95fd5"
+        ], 
         "slug": "test-page-0", 
         "content": "this is sample content for pg 0", 
         "source": null, 
